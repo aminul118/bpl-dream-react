@@ -1,0 +1,13 @@
+
+.hero{
+background-image:url(../../assets/image/bg-shadow.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.btn-free-credit{
+    background-color: #E7FE29;
+    padding: 12px 20px;
+    border-radius:12px ;
+}
